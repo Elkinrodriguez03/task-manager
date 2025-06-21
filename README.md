@@ -2,6 +2,8 @@
 
 A straightforward and clean Task Manager application built using Vite, React, and TypeScript. This project demonstrates state management, component handling, and type safety in a modern React development environment.
 
+I spend around 12 hours working in this project.
+
 ## Features
 * Add new todo items.
 * Mark todo items as complete/incomplete.
