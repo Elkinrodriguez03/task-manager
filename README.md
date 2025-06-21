@@ -7,7 +7,7 @@ A straightforward and clean Task Manager application built using Vite, React, an
 * Mark todo items as complete/incomplete.
 * Delete todo items.
 * Persist todos. 
-* Responsive styling for usability.
+* Responsive styling for small, medium and large devices.
 
 ## Prerequisites 
 Before you begin, ensure you have the following installed:
@@ -34,3 +34,6 @@ yarn dev
 pnpm dev
 
 Open your web browser and visit the address shown in the terminal (usually http://localhost:5173/).
+
+## Deploy
+The app is deployed on Vercel and is accessible at the following URL: https://task-manager-amber-theta.vercel.app/ 
